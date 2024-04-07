@@ -7,7 +7,7 @@ I've followed on-screen instructions to re-create their practical Jupyter notebo
 Additionally, various references to **llama-index** classes were updated, to make the course's helper functions compatible with the latest llama-index **v0.10.x**.
 
 ## Table of contents:
-- [Configuring solution environment](https://github.com/LazaUK/DeepLearningAI-Giskard-RedTeaming/tree/main#part-1-configuring-solution-environment)
+- [Configuring solution environment](https://github.com/LazaUK/DeepLearningAI-Giskard-RedTeaming/tree/main#configuring-solution-environment)
 - [Lesson 1: Overview of LLM Vulnerabilities]()
 - [Lesson 2: Red Teaming LLMs]()
 - [Lesson 3: Red Teaming at Scale]()
