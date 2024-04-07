@@ -29,6 +29,13 @@ First lesson provides an overview of LLM vulnerabilities. It describes hypotheti
 - Hallucinations.
 
 ## Lesson 2: Red Teaming LLMs
+Second lesson focuses on the aspects of LLM Red Teaming. It explores different techniques to bypass the model's safeguards:
+- Exploting text completion;
+- Using biased prompts;
+- Direct prompt injection;
+- Grey box prompt attacks;
+- Advanced technique: prompt probing.
+
 ## Lesson 3: Red Teaming at Scale
 ## Lesson 4: Red Teaming LLMs with LLMs
 ## Lesson 5: A Full Red Teaming Assessment
