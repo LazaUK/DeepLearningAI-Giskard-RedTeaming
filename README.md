@@ -37,5 +37,10 @@ Second lesson focuses on the aspects of LLM Red Teaming. It explores different t
 - Advanced technique: prompt probing.
 
 ## Lesson 3: Red Teaming at Scale
+Third lessons is about automation approaches for the Prompt Injection attacks;
+- Manually defined injectio techniques;
+- Using library of prompts;
+- Giskard's LLM scan.
+
 ## Lesson 4: Red Teaming LLMs with LLMs
 ## Lesson 5: A Full Red Teaming Assessment
