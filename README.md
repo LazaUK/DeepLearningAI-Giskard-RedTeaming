@@ -9,7 +9,7 @@ Additionally, various references to **llama-index** classes were updated, to mak
 ## Table of contents:
 - [Configuring solution environment](https://github.com/LazaUK/DeepLearningAI-Giskard-RedTeaming/tree/main#configuring-solution-environment)
 - [Lesson 1: Overview of LLM Vulnerabilities](https://github.com/LazaUK/DeepLearningAI-Giskard-RedTeaming/tree/main#lesson-1-overview-of-llm-vulnerabilities)
-- [Lesson 2: Red Teaming LLMs]()
+- [Lesson 2: Red Teaming LLMs](https://github.com/LazaUK/DeepLearningAI-Giskard-RedTeaming/tree/main#lesson-2-red-teaming-llms)
 - [Lesson 3: Red Teaming at Scale]()
 - [Lesson 4: Red Teaming LLMs with LLMs]()
 - [Lesson 5: A Full Red Teaming Assessment]()
