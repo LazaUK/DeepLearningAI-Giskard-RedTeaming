@@ -10,3 +10,5 @@ First lesson provides an overview of LLM vulnerabilities. It describes hypotheti
 - Sensitive information disclosure;
 - Service disruption;
 - Hallucinations.
+
+## Lesson 2: Red Teaming LLMs
