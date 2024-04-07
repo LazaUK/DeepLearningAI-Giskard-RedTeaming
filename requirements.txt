@@ -1,0 +1,9 @@
+# requirements file
+# Tested on Python 3.11.6
+
+giskard[llm]
+pandas
+llama-index
+llama-index-embeddings-azure-openai
+llama-index-llms-azure-openai
+openai
