@@ -7,7 +7,7 @@ I've followed on-screen instructions to re-create their practical Jupyter notebo
 Additionally, various references to **llama-index** classes were updated, to make the course's helper functions compatible with the latest llama-index **v0.10.x**.
 
 ## Table of contents:
-- [Configuring solution environment]()
+- [Configuring solution environment](https://github.com/LazaUK/DeepLearningAI-Giskard-RedTeaming/tree/main#part-1-configuring-solution-environment)
 - [Lesson 1: Overview of LLM Vulnerabilities]()
 - [Lesson 2: Red Teaming LLMs]()
 - [Lesson 3: Red Teaming at Scale]()
@@ -15,8 +15,7 @@ Additionally, various references to **llama-index** classes were updated, to mak
 - [Lesson 5: A Full Red Teaming Assessment]()
 
 ## Part 1: Configuring solution environment
-1. To use Azure OpenAI backend, assign the API endpoint name, key and version, along with the Azure OpenAI deployment names of GPT and Embedding models to **OPENAI_API_BASE**, **OPENAI_API_KEY**, **OPENAI_API_VERSION**, **OPENAI_API_DEPLOY** (for GPT) and **OPENAI_API_DEPLOY_EMBED** (for Embedding) environment variables respectively.
-![screenshot_1.1_environment](images/environment_var.png)
+1. To use Azure OpenAI backend, assign the API endpoint name, key and version, along with the Azure OpenAI deployment names of GPT and Embedding models to **AZURE_OPENAI_API_BASE**, **AZURE_OPENAI_API_KEY**, **AZURE_OPENAI_API_VERSION**, **AZURE_OPENAI_API_DEPLOY** (for GPT) and **AZURE_OPENAI_API_DEPLOY_EMBED** (for Embedding) environment variables respectively.
 2. Install the required Python packages, by using the **pip** command and the provided requirements.txt file.
 ```
 pip install -r requirements.txt
