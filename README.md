@@ -4,7 +4,7 @@ Andrew Ng and Giskard team released great course called ["Red Teaming LLM Applic
 
 I've followed on-screen instructions to re-create their practical Jupyter notebooks and then adapted the code to run against **Azure OpenAI** service, as it has slightly different syntax in comparison to the original OpenAI endpoints.
 
-Additionally, references to **llama-index** classes were updated, to make the helper functions compatible with version **0.10.x**.
+Additionally, various references to **llama-index** classes were updated, to make the course's helper functions compatible with the latest llama-index Python package, **0.10.x**.
 
 ## Lesson 1: Overview of LLM Vulnerabilities
 First lesson provides an overview of LLM vulnerabilities. It describes hypothetical scenarios, causes of observed behaviour and potential impact. Four main categories of described LLM vulnerabilities are:
