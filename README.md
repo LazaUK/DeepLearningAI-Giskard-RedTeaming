@@ -14,3 +14,6 @@ First lesson provides an overview of LLM vulnerabilities. It describes hypotheti
 - Hallucinations.
 
 ## Lesson 2: Red Teaming LLMs
+## Lesson 3: Red Teaming at Scale
+## Lesson 4: Red Teaming LLMs with LLMs
+## Lesson 5: A Full Red Teaming Assessment
