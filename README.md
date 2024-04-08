@@ -48,4 +48,4 @@ Fourth lesson is about the use of LLM to automate the Red Teaming process. Here 
 ## Lesson 5: A Full Red Teaming Assessment
 Fifth lesson provides an example of a full Red Teaming assessment. It consists of 2 rounds:
 - Round one is about more general probing of the company bot, to search for any signs of vulnerabilities in various categories, e.g. toxicity and offensive content, off-topic content, excessive agency, sensitive information disclosure, etc. You can use either custom prompts or automate prompts generation with Giskard's Python library;
-- Round two is about exploting specific functionality, e.g. prompt injection, to achieve malicious goal.
+- Round two is about exploting specific functionality, e.g. prompt injection, to achieve malicious goal. In this fictitious scenario, we persuade the bot to refund the order, even if it's not eligible any more.
