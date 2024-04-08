@@ -1,6 +1,6 @@
 # Red Teaming LLM Applications
 
-Andrew Ng and Giskard team released great course called ["Red Teaming LLM Applications"](https://learn.deeplearning.ai/courses/red-teaming-llm-applications) on DeepLearning.AI site.It provides practical aspects on testing large language models and finding weaknesses and potentially harmful outputs in their applications.
+Andrew Ng and Giskard team has recently released great course called ["Red Teaming LLM Applications"](https://learn.deeplearning.ai/courses/red-teaming-llm-applications) on DeepLearning.AI platform. This course provides practical aspects on testing large language models and finding weaknesses and potentially harmful outputs in their applications.
 
 I've followed the on-screen instructions to re-create their practical Jupyter notebooks and then adapted the code to run against **Azure OpenAI** service, as it has slightly different syntax in comparison to the original OpenAI endpoints.
 
