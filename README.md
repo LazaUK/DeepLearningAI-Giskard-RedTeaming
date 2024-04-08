@@ -2,7 +2,7 @@
 
 Andrew Ng and Giskard team released great course called ["Red Teaming LLM Applications"](https://learn.deeplearning.ai/courses/red-teaming-llm-applications) on DeepLearning.AI site.It provides practical aspects on testing large language models and finding weaknesses and potentially harmful outputs in their applications.
 
-I've followed on-screen instructions to re-create their practical Jupyter notebooks and then adapted the code to run against **Azure OpenAI** service, as it has slightly different syntax in comparison to the original OpenAI endpoints.
+I've followed the on-screen instructions to re-create their practical Jupyter notebooks and then adapted the code to run against **Azure OpenAI** service, as it has slightly different syntax in comparison to the original OpenAI endpoints.
 
 Additionally, various references to **llama-index** classes were updated, to make the course's helper functions compatible with the latest llama-index **v0.10.x**.
 
@@ -30,7 +30,7 @@ First lesson provides an overview of LLM vulnerabilities. It describes hypotheti
 
 ## Lesson 2: Red Teaming LLMs
 Second lesson focuses on the aspects of LLM Red Teaming. It explores different techniques to bypass the model's safeguards:
-- Exploting text completion;
+- Exploiting text completion;
 - Using biased prompts;
 - Direct prompt injection;
 - Grey box prompt attacks;
@@ -38,11 +38,11 @@ Second lesson focuses on the aspects of LLM Red Teaming. It explores different t
 
 ## Lesson 3: Red Teaming at Scale
 Third lesson is about automation approaches for the Prompt Injection attacks;
-- Manually defined injectio techniques;
+- Manually defined injection techniques;
 - Using library of prompts;
 - Giskard's LLM scan.
 
 ## Lesson 4: Red Teaming LLMs with LLMs
-Fourth lesson is about use of LLM to automate Red Teaming process. Here you can find how to use custom scripting to automate generation of adverserial inputs and evaluation of the app's ouutputs. Then it's shown how the same process can be automated by using Giskard's Python library.
+Fourth lesson is about the use of LLM to automate the Red Teaming process. Here you can find how to use custom scripting to automate generation of adversarial inputs and evaluation of the app's outputs. Then it's shown how the same process can be automated by using Giskard's Python library.
 
 ## Lesson 5: A Full Red Teaming Assessment
